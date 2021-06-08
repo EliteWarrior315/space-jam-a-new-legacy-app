@@ -6,7 +6,7 @@ const maxPlayersOnCourt = 5;
 const numQuarters  = 4;
 
 // Variables to track state throughout the game
-var qaureterQuarter = 0;
+var currentQuarter = 0;
 var playersOnCourt = 0;
 var quarterInPlay = false;
 
